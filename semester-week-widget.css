@@ -1,7 +1,7 @@
 .week-widget-container {
     position: fixed;
     top: 20px;
-    left: 20px;
+    left: 0px;
     z-index: 1000;
 }
 
